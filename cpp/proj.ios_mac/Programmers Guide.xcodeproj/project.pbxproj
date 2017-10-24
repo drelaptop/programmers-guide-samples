@@ -1163,7 +1163,7 @@
 				);
 				INFOPLIST_FILE = ios/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LIBRARY_SEARCH_PATHS = "/Users/dubb/Projects/cocos2d-x/prebuilt/ios";
+				LIBRARY_SEARCH_PATHS = "/Users/laptop/programmers-guide-samples/libs";
 				PRODUCT_NAME = "Programmers Guide";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
